@@ -2,6 +2,8 @@
 name = "build-example1"
 version = "0.1.0"
 edition = "2021"
+description="build demo"
+license="MIT"
 # tells Cargo that we are linking to the libz library.
 links = "z"
 
